@@ -1,0 +1,23 @@
+{
+  "name": "web_tailwind_tuts_ninja",
+  "version": "1.0.0",
+  "description": "<hr>\r ```\r npm init -y\r ```",
+  "main": "index.js",
+  "scripts": {
+    "build-css": "tailwindcss build src/styles.css -o public/styles.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MetythornPenn/web_tailwind_tuts_ninja.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MetythornPenn/web_tailwind_tuts_ninja/issues"
+  },
+  "homepage": "https://github.com/MetythornPenn/web_tailwind_tuts_ninja#readme",
+  "dependencies": {
+    "tailwindcss": "^3.2.7"
+  }
+}
